@@ -13,13 +13,6 @@ Hunt The Voldemort is a Harry Potter-themed version of the classic "Hunt the Wum
 5. At the top right hand you should see a Play/Run button click that and you will begin the game, look towards the bottom of the screen the "TERMINAL" to be exact.
 
 
-## How to quit
-1. In the terminal, type "QUIT" and press enter
-2. you will get this popup "Are you sure you want to quit? (y/n)"
-3. y to "QUIT"
-4. n to "CONTINUE"
-
-
 ## Rules of the Game
 - You start in a random dungeon.
 - Your goal is to locate and defeat Voldemort using the Expelliarmus spell.
