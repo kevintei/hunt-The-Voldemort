@@ -33,6 +33,19 @@ Hunt The Voldemort is a Harry Potter-themed version of the classic "Hunt the Wum
 2. Avoid dangers like Dementors and Voldemort’s traps.
 3. Use strategy to locate and defeat Voldemort.
 
+```Mermaid
+flowchart TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+  ```
+
+
+
+
+
 
 ## Similarities to Hunt the Wumpus
 - Grid-like dungeon system
