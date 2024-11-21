@@ -33,7 +33,7 @@ Hunt The Voldemort is a Harry Potter-themed version of the classic "Hunt the Wum
 2. Avoid dangers like Dementors and Voldemort’s traps.
 3. Use strategy to locate and defeat Voldemort.
 
-```Mermaid
+```mermaid
 flowchart TD
     A[Christmas] -->|Get money| B(Go shopping)
     B --> C{Let me think}
